@@ -39,7 +39,7 @@ A Cerreira Fosta Ltda. busca responder às seguintes perguntas para orientar sua
 ---
 
 ## Notebooks Desenvolvidos
-1. *Tratamento:** Processamento inicial dos dados para garantir integridade e qualidade.
+1. **Tratamento:** Processamento inicial dos dados para garantir integridade e qualidade.
 2. **EDA (Análise Exploratória de Dados):** Identificação de padrões, tendências e insights acionáveis.
 3. **Resultados e Recomendações:** Foco em responder as perguntas levantadas pela Cerreira Fosta Ltda..
 
